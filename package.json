@@ -1,0 +1,1 @@
+{"name":"etherium-admin-console","private":true,"type":"module","scripts":{"check":"node --check dist/app.js && node --check dist/firebase-config.js"}}
